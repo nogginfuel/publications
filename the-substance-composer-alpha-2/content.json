@@ -1,0 +1,861 @@
+{
+  "id": "untitled_doc",
+  "schema": [
+    "substance-article",
+    "0.3.0"
+  ],
+  "nodes": {
+    "document": {
+      "id": "document",
+      "type": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "untitled_doc",
+      "creator": "",
+      "title": "The Substance Composer (Alpha 2)",
+      "authors": [
+        "contributor_1",
+        "contributor_c1e737124bd9632218a0132fe4d6e806"
+      ],
+      "abstract": "",
+      "created_at": "2014-02-10T14:15:43.804Z",
+      "updated_at": "2014-03-20T02:50:13.038Z",
+      "published_on": "2014-03-20T02:50:13.035Z"
+    },
+    "cover": {
+      "id": "cover",
+      "type": "cover",
+      "authors": []
+    },
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "cover",
+        "text1",
+        "heading_56565db332a53afafff89fe52dc48ebe",
+        "49cc83280915fcc0fc90db794e267770",
+        "heading_ad87beddf2b2324c5a5742b5f6b74ca0",
+        "6e2416253dbdd8bf58e4b975a9317ced",
+        "heading_835561df0e49736680bcc3be9b294d00",
+        "heading_5821edf5078e491e399be5c61964cde1",
+        "b8cd259a1271a815a85b4f3c8abc43a8",
+        "heading_9d9f989d2024541cce79958d065416c8",
+        "ce2f714e494de8cfa34aa856f6a69227",
+        "heading_b76197e86d4ac600ee97b45c6537e0c3",
+        "b330da5675ea9ba50e7a5fcc200f38d4",
+        "heading_b4f9f07598a34464e631eab097c8f6f0",
+        "d9638996ee82419cc1c2e39488e93bc4",
+        "heading_aac0345f84d85057b00cfac8417527dd",
+        "85c30b5a4e0dfbffaedaad588decdac9",
+        "heading_4ee04365bbf63e53f288ac766b5cc66e",
+        "20bd05631ed49fda21420be995be218d",
+        "heading_d5449d551bd1fcd8c92968c021900e52",
+        "4f1c3c8825ac05adca94c8cb10dc0897",
+        "heading_b895466e85e3f302a54f6a857f610393",
+        "6bcb40fb66fb42435cdfe8099eaf0eec",
+        "heading_b2f15d8daed942ad7a01f61df5257b50",
+        "366af0156d9d99ffec5953cadc897629",
+        "heading_515c3cb8abd31a7a778aa669e39750c0",
+        "heading_0e278046304d6868a5c247d50060529e",
+        "ef70450530caf673f8227fae38da9372",
+        "heading_772c1e34d982286209d763b60a5ef591",
+        "9c19cb30ea0031c9bcf3b1a07fe83c06",
+        "heading_4e60ce3c59f95da819a2188221bcba64",
+        "e4fbe113e2118c7e5540c2b1cc1be2fc",
+        "heading_f21ee7ba75a946e5e2e602e434f79117",
+        "dfd5c72e856a64d3214c5bba06f693b0",
+        "heading_7d46a87967739a864e46419125829140",
+        "56760f571d13d3e4f2920cad87aa3926"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "figure_cc2f7fd038a72eaa76c9647c38b107fe",
+        "figure_9146f9c76bfd3b3b9548a7b78ca2fa9c"
+      ]
+    },
+    "remarks": {
+      "type": "view",
+      "id": "remarks",
+      "nodes": [
+        "remark_c881b74c5b13d0d74fe0aae9f4c69685"
+      ]
+    },
+    "errors": {
+      "type": "view",
+      "id": "errors",
+      "nodes": [
+        "error_41162d93a80e9be24468b3c057f0adbf"
+      ]
+    },
+    "info": {
+      "type": "view",
+      "id": "info",
+      "nodes": [
+        "contributor_1",
+        "contributor_c1e737124bd9632218a0132fe4d6e806"
+      ]
+    },
+    "text1": {
+      "type": "text",
+      "id": "text1",
+      "content": "Welcome to the Substance Composer a new tool for the ambitious writer and DIY publisher. You are looking at an alpha-version version of the product, so things are likely to break. At this early stage, your feedback is warmly welcomed. Please post it to our mailing list."
+    },
+    "contributor_1": {
+      "type": "contributor",
+      "id": "contributor_1",
+      "name": "Michael Aufreiter",
+      "role": "author",
+      "organization": "Substance Software GmbH",
+      "image": "contributor_1.png",
+      "email": "michael@substance.io",
+      "url": ""
+    },
+    "text_503c475b9be2275e86d740c7b80cb96a": {
+      "type": "text",
+      "id": "text_503c475b9be2275e86d740c7b80cb96a",
+      "source_id": "",
+      "content": "A. The toolbar allows you to toggle annotations, create remarks and insert content elements. B. The article's text content. C. All of the associated resources. This includes the Table of Contents, figures and additional information about the article. D. The visual content outline. Each gray bar identifies an individual paragraph or resource within the article."
+    },
+    "figure_cc2f7fd038a72eaa76c9647c38b107fe": {
+      "type": "figure",
+      "id": "figure_cc2f7fd038a72eaa76c9647c38b107fe",
+      "url": "",
+      "image": "figure_cc2f7fd038a72eaa76c9647c38b107fe.png",
+      "label": "The workspace of the Composer",
+      "caption": "text_503c475b9be2275e86d740c7b80cb96a"
+    },
+    "b8cd259a1271a815a85b4f3c8abc43a8": {
+      "type": "text",
+      "id": "b8cd259a1271a815a85b4f3c8abc43a8",
+      "source_id": "",
+      "content": "When designing the Composer, we worked to provide a flexible writing experience that supports a variety of use cases. On the far left, the visual content outline identifies the reader's position in the context of the entire article. It also outlines each paragraph in the article. The left panel includes all of the textual content, while the right panel includes the resources. The resources include the table of contents, figures and information about the article. By separating the content into individual panels, we allow the writer to focus on multiple content bits at the same time."
+    },
+    "heading_5821edf5078e491e399be5c61964cde1": {
+      "type": "heading",
+      "id": "heading_5821edf5078e491e399be5c61964cde1",
+      "source_id": "",
+      "content": "Two panel editing",
+      "level": 2
+    },
+    "heading_9d9f989d2024541cce79958d065416c8": {
+      "type": "heading",
+      "id": "heading_9d9f989d2024541cce79958d065416c8",
+      "source_id": "",
+      "content": "Content is data",
+      "level": 2
+    },
+    "ce2f714e494de8cfa34aa856f6a69227": {
+      "type": "text",
+      "id": "ce2f714e494de8cfa34aa856f6a69227",
+      "source_id": "",
+      "content": "Instead of binding the content to a presentation-focused format, the Composer considers content as data and utilizes a defined data structure, the Substance Document Model. These documents can be processed as if they were its own database -- allowing users to query the content, create new content and build new tools. Creating blogging engines being the simplest use-case."
+    },
+    "85c30b5a4e0dfbffaedaad588decdac9": {
+      "type": "text",
+      "id": "85c30b5a4e0dfbffaedaad588decdac9",
+      "source_id": "",
+      "content": "The Substance Composer enables offline collaboration, by enabling users to add remarks to the content and highlght errors."
+    },
+    "heading_aac0345f84d85057b00cfac8417527dd": {
+      "type": "heading",
+      "id": "heading_aac0345f84d85057b00cfac8417527dd",
+      "source_id": "",
+      "content": "Offline collaboration",
+      "level": 2
+    },
+    "b330da5675ea9ba50e7a5fcc200f38d4": {
+      "type": "text",
+      "id": "b330da5675ea9ba50e7a5fcc200f38d4",
+      "source_id": "",
+      "content": "Using the Substance Composer you can do web-publishing yourself. You can either use the built-in support for Github Pages or export the document as a zip file. After that zip file has been extracted, the contents can be dropped on a webserver of your choice."
+    },
+    "heading_b76197e86d4ac600ee97b45c6537e0c3": {
+      "type": "heading",
+      "id": "heading_b76197e86d4ac600ee97b45c6537e0c3",
+      "source_id": "",
+      "content": "DIY Publishing",
+      "level": 2
+    },
+    "strong_0531f1642f0225025e0e9605c96612e7": {
+      "type": "strong",
+      "id": "strong_0531f1642f0225025e0e9605c96612e7",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        0,
+        2
+      ]
+    },
+    "strong_8d581b1458073af042a3ccb4015756f8": {
+      "type": "strong",
+      "id": "strong_8d581b1458073af042a3ccb4015756f8",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        124,
+        126
+      ]
+    },
+    "strong_36eef6fe9cc3b624e00b1ea9488a073c": {
+      "type": "strong",
+      "id": "strong_36eef6fe9cc3b624e00b1ea9488a073c",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        93,
+        95
+      ]
+    },
+    "text_b5c654e9a183e6a07375da6bc5af4ac3": {
+      "type": "text",
+      "id": "text_b5c654e9a183e6a07375da6bc5af4ac3",
+      "source_id": "",
+      "content": "Selecting a figure label within the text will bring that figure into view within the resources panel. The content outline will identify all of the other references to that figure by highlighting the paragraphs green."
+    },
+    "figure_9146f9c76bfd3b3b9548a7b78ca2fa9c": {
+      "type": "figure",
+      "id": "figure_9146f9c76bfd3b3b9548a7b78ca2fa9c",
+      "url": "",
+      "image": "figure_9146f9c76bfd3b3b9548a7b78ca2fa9c.png",
+      "label": "Contextual Resources",
+      "caption": "text_b5c654e9a183e6a07375da6bc5af4ac3"
+    },
+    "49cc83280915fcc0fc90db794e267770": {
+      "type": "text",
+      "id": "49cc83280915fcc0fc90db794e267770",
+      "source_id": "",
+      "content": "Working with digital documents has been difficult, primarily because they come in presentation-centric formats (simulating paper) with the goal of appearing identical across multiple devices for printing purposes. Content today, however, is no longer being printed out readily. Instead, it is being read on a variety of platforms, from computers to tablets and other mobile devices. With Substance we are promoting an open document format and supporting tools to unleash the full power of digital content and provide an interactive experience for authoring and viewing."
+    },
+    "heading_56565db332a53afafff89fe52dc48ebe": {
+      "type": "heading",
+      "id": "heading_56565db332a53afafff89fe52dc48ebe",
+      "source_id": "",
+      "content": "Motivation",
+      "level": 1
+    },
+    "56760f571d13d3e4f2920cad87aa3926": {
+      "type": "text",
+      "id": "56760f571d13d3e4f2920cad87aa3926",
+      "source_id": "",
+      "content": "While the idea of Substance existed for a long time, the current presentation of the Composer was highly influenced by eLife Lens, a new display method for scientific content. Credits go to Ivan Grubisic who proposed a two panel content-presentation and Ian Mulvany from eLife for investing into the idea in the scope of an open source project."
+    },
+    "heading_7d46a87967739a864e46419125829140": {
+      "type": "heading",
+      "id": "heading_7d46a87967739a864e46419125829140",
+      "source_id": "",
+      "content": "Credits",
+      "level": 1
+    },
+    "6e2416253dbdd8bf58e4b975a9317ced": {
+      "type": "text",
+      "id": "6e2416253dbdd8bf58e4b975a9317ced",
+      "source_id": "",
+      "content": "Substance is a good fit for writers, journalists and bloggers, as it enables self-publishing of books and stories. In the future it could also be suitable for acadamic use cases, such as writing and publishing research articles or creating seminar papers. At the end, Substance is for everyone who is writing prose and is interested in a modern alternative to classic word-processing."
+    },
+    "heading_ad87beddf2b2324c5a5742b5f6b74ca0": {
+      "type": "heading",
+      "id": "heading_ad87beddf2b2324c5a5742b5f6b74ca0",
+      "source_id": "",
+      "content": "Who is it for",
+      "level": 1
+    },
+    "text_516cee57801a871dc6afd9f731d432bf": {
+      "type": "text",
+      "id": "text_516cee57801a871dc6afd9f731d432bf",
+      "source_id": "",
+      "content": "In a collaborative workflow the reviewer can add remarks and highlight errors in the document."
+    },
+    "strong_245101142a7753bbc1bb68fd0a54416b": {
+      "type": "strong",
+      "id": "strong_245101142a7753bbc1bb68fd0a54416b",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        251,
+        253
+      ]
+    },
+    "d9638996ee82419cc1c2e39488e93bc4": {
+      "type": "text",
+      "id": "d9638996ee82419cc1c2e39488e93bc4",
+      "source_id": "",
+      "content": "People should have full control about their content. You can share your Substance documents on Dropbox or Google Drive for simplicity (if you trust them). Or you can use strong encryption, save your document on a floppy disk and store it in a vault. And swallow the key. And... I think you got the idea."
+    },
+    "heading_b4f9f07598a34464e631eab097c8f6f0": {
+      "type": "heading",
+      "id": "heading_b4f9f07598a34464e631eab097c8f6f0",
+      "source_id": "",
+      "content": "No Cloud-Zwang",
+      "level": 2
+    },
+    "contributor_c1e737124bd9632218a0132fe4d6e806": {
+      "type": "contributor",
+      "id": "contributor_c1e737124bd9632218a0132fe4d6e806",
+      "source_id": "",
+      "name": "Oliver Buchtala",
+      "role": "author",
+      "organization": "Substance Software GmbH",
+      "image": "contributor_c1e737124bd9632218a0132fe4d6e806.png",
+      "email": "oliver@substance.io",
+      "contribution": "",
+      "url": ""
+    },
+    "heading_515c3cb8abd31a7a778aa669e39750c0": {
+      "type": "heading",
+      "id": "heading_515c3cb8abd31a7a778aa669e39750c0",
+      "source_id": "",
+      "content": "Next steps",
+      "level": 1
+    },
+    "emphasis_6015f51dede3a6be90fba831fd01285d": {
+      "type": "emphasis",
+      "id": "emphasis_6015f51dede3a6be90fba831fd01285d",
+      "path": [
+        "49cc83280915fcc0fc90db794e267770",
+        "content"
+      ],
+      "range": [
+        82,
+        102
+      ]
+    },
+    "figure_reference_823561f287b2ec04561aa538385ac2dc": {
+      "type": "figure_reference",
+      "id": "figure_reference_823561f287b2ec04561aa538385ac2dc",
+      "path": [
+        "b8cd259a1271a815a85b4f3c8abc43a8",
+        "content"
+      ],
+      "range": [
+        139,
+        161
+      ],
+      "target": "figure_cc2f7fd038a72eaa76c9647c38b107fe"
+    },
+    "figure_reference_f716de2c442b56705146cb0915676045": {
+      "type": "figure_reference",
+      "id": "figure_reference_f716de2c442b56705146cb0915676045",
+      "path": [
+        "b8cd259a1271a815a85b4f3c8abc43a8",
+        "content"
+      ],
+      "range": [
+        368,
+        377
+      ],
+      "target": "figure_cc2f7fd038a72eaa76c9647c38b107fe"
+    },
+    "heading_772c1e34d982286209d763b60a5ef591": {
+      "type": "heading",
+      "id": "heading_772c1e34d982286209d763b60a5ef591",
+      "source_id": "",
+      "content": "List & table support",
+      "level": 2
+    },
+    "heading_4e60ce3c59f95da819a2188221bcba64": {
+      "type": "heading",
+      "id": "heading_4e60ce3c59f95da819a2188221bcba64",
+      "source_id": "",
+      "content": "Native app",
+      "level": 2
+    },
+    "link_f204d6327fe0929168b69f860452a936": {
+      "type": "link",
+      "id": "link_f204d6327fe0929168b69f860452a936",
+      "path": [
+        "text1",
+        "content"
+      ],
+      "range": [
+        257,
+        269
+      ],
+      "url": "https://groups.google.com/forum/#!forum/substance_"
+    },
+    "figure_reference_5d6934dfe0b154562b5048b4da05fcf2": {
+      "type": "figure_reference",
+      "id": "figure_reference_5d6934dfe0b154562b5048b4da05fcf2",
+      "path": [
+        "text1",
+        "content"
+      ],
+      "range": [
+        15,
+        33
+      ],
+      "target": "figure_cc2f7fd038a72eaa76c9647c38b107fe"
+    },
+    "heading_835561df0e49736680bcc3be9b294d00": {
+      "type": "heading",
+      "id": "heading_835561df0e49736680bcc3be9b294d00",
+      "source_id": "",
+      "content": "What's special",
+      "level": 1
+    },
+    "emphasis_83eb86a4464adc329344b2cb1f762c28": {
+      "type": "emphasis",
+      "id": "emphasis_83eb86a4464adc329344b2cb1f762c28",
+      "path": [
+        "49cc83280915fcc0fc90db794e267770",
+        "content"
+      ],
+      "range": [
+        336,
+        345
+      ]
+    },
+    "emphasis_2a5ec3142781eda9b4a8b45077487737": {
+      "type": "emphasis",
+      "id": "emphasis_2a5ec3142781eda9b4a8b45077487737",
+      "path": [
+        "49cc83280915fcc0fc90db794e267770",
+        "content"
+      ],
+      "range": [
+        349,
+        356
+      ]
+    },
+    "emphasis_709c4e8dd9d8716a118a0b977f30b6cd": {
+      "type": "emphasis",
+      "id": "emphasis_709c4e8dd9d8716a118a0b977f30b6cd",
+      "path": [
+        "49cc83280915fcc0fc90db794e267770",
+        "content"
+      ],
+      "range": [
+        547,
+        556
+      ]
+    },
+    "emphasis_f7cfda72160b59f060d554ae1143ecea": {
+      "type": "emphasis",
+      "id": "emphasis_f7cfda72160b59f060d554ae1143ecea",
+      "path": [
+        "49cc83280915fcc0fc90db794e267770",
+        "content"
+      ],
+      "range": [
+        561,
+        568
+      ]
+    },
+    "emphasis_1cadd98bea6484a1e91d22381ca8e7fd": {
+      "type": "emphasis",
+      "id": "emphasis_1cadd98bea6484a1e91d22381ca8e7fd",
+      "path": [
+        "6e2416253dbdd8bf58e4b975a9317ced",
+        "content"
+      ],
+      "range": [
+        28,
+        35
+      ]
+    },
+    "emphasis_7519e7a3bcd59d359aa14108e44a0d2e": {
+      "type": "emphasis",
+      "id": "emphasis_7519e7a3bcd59d359aa14108e44a0d2e",
+      "path": [
+        "6e2416253dbdd8bf58e4b975a9317ced",
+        "content"
+      ],
+      "range": [
+        37,
+        48
+      ]
+    },
+    "emphasis_a1d2fdb007316104c0d1381c9a16888e": {
+      "type": "emphasis",
+      "id": "emphasis_a1d2fdb007316104c0d1381c9a16888e",
+      "path": [
+        "6e2416253dbdd8bf58e4b975a9317ced",
+        "content"
+      ],
+      "range": [
+        53,
+        61
+      ]
+    },
+    "emphasis_e9a08139f4de81b3f945facbf239c18f": {
+      "type": "emphasis",
+      "id": "emphasis_e9a08139f4de81b3f945facbf239c18f",
+      "path": [
+        "6e2416253dbdd8bf58e4b975a9317ced",
+        "content"
+      ],
+      "range": [
+        77,
+        92
+      ]
+    },
+    "link_37fe09dc7cff1e91d5b13e7afcc2b594": {
+      "type": "link",
+      "id": "link_37fe09dc7cff1e91d5b13e7afcc2b594",
+      "path": [
+        "ce2f714e494de8cfa34aa856f6a69227",
+        "content"
+      ],
+      "range": [
+        147,
+        171
+      ],
+      "url": "http://github.com/substance/document"
+    },
+    "emphasis_5f5f26a6f67ba73619c421137f60e73a": {
+      "type": "emphasis",
+      "id": "emphasis_5f5f26a6f67ba73619c421137f60e73a",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        7,
+        14
+      ]
+    },
+    "emphasis_9f464f88ee78976db1fb3cf87f488d5c": {
+      "type": "emphasis",
+      "id": "emphasis_9f464f88ee78976db1fb3cf87f488d5c",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        149,
+        158
+      ]
+    },
+    "emphasis_c8fb6d686df16d479b85d4e3e7ec0f1b": {
+      "type": "emphasis",
+      "id": "emphasis_c8fb6d686df16d479b85d4e3e7ec0f1b",
+      "path": [
+        "text_503c475b9be2275e86d740c7b80cb96a",
+        "content"
+      ],
+      "range": [
+        258,
+        280
+      ]
+    },
+    "heading_4ee04365bbf63e53f288ac766b5cc66e": {
+      "type": "heading",
+      "id": "heading_4ee04365bbf63e53f288ac766b5cc66e",
+      "source_id": "",
+      "content": "Getting started",
+      "level": 1
+    },
+    "20bd05631ed49fda21420be995be218d": {
+      "type": "text",
+      "id": "20bd05631ed49fda21420be995be218d",
+      "source_id": "",
+      "content": "Most things should be self-explanatory. However there are some hidden gems, that we'd like to point out. First off, you can save Substance documents to your harddisk by hitting the Export Icon. And what's not so obvious is that you can also read them, by just drag+dropping the zip into the Composer window."
+    },
+    "6bcb40fb66fb42435cdfe8099eaf0eec": {
+      "type": "text",
+      "id": "6bcb40fb66fb42435cdfe8099eaf0eec",
+      "source_id": "",
+      "content": "For quick saves you can press the save button or use cmd+s. This stores your document in the browsers storage. You can only store one document, so you might want to export every now and then."
+    },
+    "code_9983461a943659806bc14352072a8e51": {
+      "type": "code",
+      "id": "code_9983461a943659806bc14352072a8e51",
+      "path": [
+        "6bcb40fb66fb42435cdfe8099eaf0eec",
+        "content"
+      ],
+      "range": [
+        53,
+        58
+      ]
+    },
+    "366af0156d9d99ffec5953cadc897629": {
+      "type": "text",
+      "id": "366af0156d9d99ffec5953cadc897629",
+      "source_id": "",
+      "content": "If something strange happens (this is an alpha version), what you can is hitting save (cmd+s), and then reload (cmd+r), which restores the last valid document."
+    },
+    "code_8d4a26a2f9061459d4d1e53744633d56": {
+      "type": "code",
+      "id": "code_8d4a26a2f9061459d4d1e53744633d56",
+      "path": [
+        "366af0156d9d99ffec5953cadc897629",
+        "content"
+      ],
+      "range": [
+        87,
+        92
+      ]
+    },
+    "code_5451cca436bccda170ccdb7c18fe56df": {
+      "type": "code",
+      "id": "code_5451cca436bccda170ccdb7c18fe56df",
+      "path": [
+        "366af0156d9d99ffec5953cadc897629",
+        "content"
+      ],
+      "range": [
+        112,
+        117
+      ]
+    },
+    "heading_b2f15d8daed942ad7a01f61df5257b50": {
+      "type": "heading",
+      "id": "heading_b2f15d8daed942ad7a01f61df5257b50",
+      "source_id": "",
+      "content": "Restore document",
+      "level": 2
+    },
+    "heading_b895466e85e3f302a54f6a857f610393": {
+      "type": "heading",
+      "id": "heading_b895466e85e3f302a54f6a857f610393",
+      "source_id": "",
+      "content": "Saving and loading documents",
+      "level": 2
+    },
+    "heading_d5449d551bd1fcd8c92968c021900e52": {
+      "type": "heading",
+      "id": "heading_d5449d551bd1fcd8c92968c021900e52",
+      "source_id": "",
+      "content": "Content creation",
+      "level": 2
+    },
+    "4f1c3c8825ac05adca94c8cb10dc0897": {
+      "type": "text",
+      "id": "4f1c3c8825ac05adca94c8cb10dc0897",
+      "source_id": "",
+      "content": "If you want to increase/decrease the heading level, what you have to do is hitting tab or shift+tab. The rest you'll figure out yourself."
+    },
+    "code_9b3c0bef5f8d3c9c957430a667840481": {
+      "type": "code",
+      "id": "code_9b3c0bef5f8d3c9c957430a667840481",
+      "path": [
+        "4f1c3c8825ac05adca94c8cb10dc0897",
+        "content"
+      ],
+      "range": [
+        90,
+        99
+      ]
+    },
+    "code_8e82d76082ce90fe5e5f54c5d0e1b599": {
+      "type": "code",
+      "id": "code_8e82d76082ce90fe5e5f54c5d0e1b599",
+      "path": [
+        "4f1c3c8825ac05adca94c8cb10dc0897",
+        "content"
+      ],
+      "range": [
+        83,
+        86
+      ]
+    },
+    "heading_f21ee7ba75a946e5e2e602e434f79117": {
+      "type": "heading",
+      "id": "heading_f21ee7ba75a946e5e2e602e434f79117",
+      "source_id": "",
+      "content": "Scientific writing",
+      "level": 1
+    },
+    "dfd5c72e856a64d3214c5bba06f693b0": {
+      "type": "text",
+      "id": "dfd5c72e856a64d3214c5bba06f693b0",
+      "source_id": "",
+      "content": "As mentioned earlier, we are working towards supporting scientific use-cases. While the Substance Composer sets the foundation for extensive editing scenarios, we currently lack support for formulas, tables, and citations etc. Given that there's enough interest, we'd be happy to realize a scientific editor that can be used by authors, publishers and typesetters (in their automatic toolchains). We would like to help paving the way to open — we mean truly open — scientific publishing."
+    },
+    "link_e6883a16fc33dd66a0728a671074d0d4": {
+      "type": "link",
+      "id": "link_e6883a16fc33dd66a0728a671074d0d4",
+      "path": [
+        "49cc83280915fcc0fc90db794e267770",
+        "content"
+      ],
+      "range": [
+        112,
+        128
+      ],
+      "url": "http://substance.io/beyond-simulating-paper"
+    },
+    "figure_reference_e1fdd1692d269cf3fea2369a3b1ecfca": {
+      "type": "figure_reference",
+      "id": "figure_reference_e1fdd1692d269cf3fea2369a3b1ecfca",
+      "path": [
+        "b8cd259a1271a815a85b4f3c8abc43a8",
+        "content"
+      ],
+      "range": [
+        316,
+        331
+      ],
+      "target": "figure_cc2f7fd038a72eaa76c9647c38b107fe"
+    },
+    "remark_c881b74c5b13d0d74fe0aae9f4c69685": {
+      "type": "remark",
+      "id": "remark_c881b74c5b13d0d74fe0aae9f4c69685",
+      "title": "",
+      "description": "Remarks are a wonderful way to link thoughts and comments to certain content bits.",
+      "creator": "Michael Aufreiter",
+      "created_at": "2014-02-12T17:48:46.306Z"
+    },
+    "remark_reference_8088e127fc473a476ac0a80f48613c03": {
+      "type": "remark_reference",
+      "id": "remark_reference_8088e127fc473a476ac0a80f48613c03",
+      "path": [
+        "85c30b5a4e0dfbffaedaad588decdac9",
+        "content"
+      ],
+      "range": [
+        79,
+        86
+      ],
+      "target": "remark_c881b74c5b13d0d74fe0aae9f4c69685"
+    },
+    "error_41162d93a80e9be24468b3c057f0adbf": {
+      "type": "error",
+      "id": "error_41162d93a80e9be24468b3c057f0adbf",
+      "title": "",
+      "description": "It must read: \"highlight\".",
+      "creator": "Oliver Buchtala",
+      "created_at": "2014-02-12T17:50:15.988Z"
+    },
+    "error_reference_0111d13d8f6dcd9a5ca38712e878a5c8": {
+      "type": "error_reference",
+      "id": "error_reference_0111d13d8f6dcd9a5ca38712e878a5c8",
+      "path": [
+        "85c30b5a4e0dfbffaedaad588decdac9",
+        "content"
+      ],
+      "range": [
+        106,
+        121
+      ],
+      "target": "error_41162d93a80e9be24468b3c057f0adbf"
+    },
+    "9c19cb30ea0031c9bcf3b1a07fe83c06": {
+      "type": "text",
+      "id": "9c19cb30ea0031c9bcf3b1a07fe83c06",
+      "source_id": "",
+      "content": "Lists and tables are coming soon."
+    },
+    "e4fbe113e2118c7e5540c2b1cc1be2fc": {
+      "type": "text",
+      "id": "e4fbe113e2118c7e5540c2b1cc1be2fc",
+      "source_id": "",
+      "content": "While the Substance Composer is built entirely with web-technology, we will provide a native appliction that you can run on your computer offline. With the release of our beta version there will be a version for OSX, Linux and Windows."
+    },
+    "link_d92dd0e26e8aa8e0dd6d2fbfa089cc06": {
+      "type": "link",
+      "id": "link_d92dd0e26e8aa8e0dd6d2fbfa089cc06",
+      "path": [
+        "56760f571d13d3e4f2920cad87aa3926",
+        "content"
+      ],
+      "range": [
+        119,
+        129
+      ],
+      "url": "http://lens.elifesciences.org"
+    },
+    "link_d016edef92e9c58c1311cd4175f4f682": {
+      "type": "link",
+      "id": "link_d016edef92e9c58c1311cd4175f4f682",
+      "path": [
+        "56760f571d13d3e4f2920cad87aa3926",
+        "content"
+      ],
+      "range": [
+        324,
+        343
+      ],
+      "url": "http://github.com/elifesciences/lens"
+    },
+    "heading_0e278046304d6868a5c247d50060529e": {
+      "type": "heading",
+      "id": "heading_0e278046304d6868a5c247d50060529e",
+      "source_id": "",
+      "content": "Fix known issues",
+      "level": 2
+    },
+    "ef70450530caf673f8227fae38da9372": {
+      "type": "text",
+      "id": "ef70450530caf673f8227fae38da9372",
+      "source_id": "",
+      "content": "There are still a bunch issues on our backlog, specifically adding support for copy&paste of rich text, and stabilize general editing behavior."
+    },
+    "emphasis_6c90437d040d25d2815be3432b232722": {
+      "type": "emphasis",
+      "id": "emphasis_6c90437d040d25d2815be3432b232722",
+      "path": [
+        "ef70450530caf673f8227fae38da9372",
+        "content"
+      ],
+      "range": [
+        79,
+        89
+      ]
+    },
+    "figure_cc2f7fd038a72eaa76c9647c38b107fe.png": {
+      "type": "file",
+      "id": "figure_cc2f7fd038a72eaa76c9647c38b107fe.png",
+      "version": 1,
+      "content_type": "image/png"
+    },
+    "figure_9146f9c76bfd3b3b9548a7b78ca2fa9c.png": {
+      "type": "file",
+      "id": "figure_9146f9c76bfd3b3b9548a7b78ca2fa9c.png",
+      "version": 1,
+      "content_type": "image/png"
+    },
+    "contributor_1.png": {
+      "type": "file",
+      "id": "contributor_1.png",
+      "version": 1,
+      "content_type": "image/png"
+    },
+    "contributor_c1e737124bd9632218a0132fe4d6e806.png": {
+      "type": "file",
+      "id": "contributor_c1e737124bd9632218a0132fe4d6e806.png",
+      "version": 1,
+      "content_type": "image/png"
+    },
+    "link_779bcc044235105298327d471b6077fd": {
+      "type": "link",
+      "id": "link_779bcc044235105298327d471b6077fd",
+      "path": [
+        "b330da5675ea9ba50e7a5fcc200f38d4",
+        "content"
+      ],
+      "range": [
+        40,
+        63
+      ],
+      "url": "http://substance.io/diy-publishing-with-substance-and-github-pages"
+    },
+    "publish_settings.json": {
+      "type": "file",
+      "id": "publish_settings.json",
+      "version": 1,
+      "content_type": "application/json"
+    },
+    "text_201b0e68fdac44f1d141ce0fc217fcaa": {
+      "type": "text",
+      "id": "text_201b0e68fdac44f1d141ce0fc217fcaa",
+      "source_id": "",
+      "content": "Enter caption"
+    }
+  }
+}
